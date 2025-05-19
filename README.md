@@ -1,12 +1,22 @@
-# React + Vite
+# Ja Gedo Safaris Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Built with Vite
 
-Currently, two official plugins are available:
+## How To Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the Repo
+2. Install dependencies with
+   ```bash
+   npm install
+   ```
+3. Start the development server
+   - On Linux/Mac:
+     ```bash
+     npm run dev
+     ```
+   - On Windows:
+     ```bash
+     npm run dev
+     ```
+4. Open your browser and navigate to `http://localhost:5173` (or the port specified in the terminal)
+5. Enjoy!!
