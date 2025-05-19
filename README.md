@@ -1,4 +1,4 @@
-# Ja Gedo Safaris Frontend
+# Ja Gedo Frontend
 
 ## Built with Vite
 
